@@ -1,0 +1,162 @@
+@media screen and (max-width:768px)
+{
+    ul{
+        margin-right: 20px;
+        width: 280px;
+   
+    }
+    .second .card{
+        margin-bottom: 0px;
+        width: 330px;
+    }
+    .cart .card {
+        border-radius: 2.25rem;
+        margin-bottom: 70px;
+        width: 322px;
+        margin: auto;
+    }
+    .offset-3 {
+        margin-right: 0%;
+    }
+    .quantity {
+        border: 1px solid;
+    }
+    .cart .card-img {
+        width: 90%
+    }
+    .burger .sec-link {
+        display: inline-block;
+        margin-right: 70px;
+    }
+    .burger .sec1-link{
+        display: inline-block;
+    }
+    .burger .card {
+        height: 515px;
+        min-width: 100px;
+        max-width: 330px !important;
+
+    }
+    .circle .card-body{
+        margin-bottom: -149px;
+    }
+    .ccc .card-img {
+      width: 94%
+    }
+    .kind {
+        background-color: #ec3454;
+        height: 110px;
+    }
+    .kind2{
+        height: 300px;
+    }
+    .kind a:hover{
+        border-bottom:none
+    }
+    .second .card-body a {
+        color: white;
+        background-image: url(../images/btn-card.png);
+        background-size: cover;
+        padding: 11px 50px;
+    }
+    .circle .card {
+        min-width: 0px;
+        max-width: 275px !important;
+        margin-left: 30px;
+        height: 515px 
+       
+    }
+    .circle .card-img .bur2{
+        margin-right: 12px !important
+    }
+    .my-offer {
+        margin-right: 26px;
+    }
+    .first-link {
+        padding: 6px 17px !important;
+        margin-right: 5px !important;
+    }
+    .sec-link {
+        padding: 6px 17px  !important;
+        margin-bottom: 0px !important;
+        margin-right: 0px;
+    }
+    .imgg1{
+        margin-right: 9px !important;
+    }
+    .second .container-fluid {
+        height: 3415px;
+    }
+   
+    .home .card {
+        margin-right: 17px;
+    }
+    .second .bur {
+        height: 2896px;
+    }
+    .second .c1
+    
+    {
+        width: 300px !important;
+    }
+    .c1 {
+    margin-right: 14px;
+    }
+    .card h4 {
+        font-size: 22px;
+    }
+    .third img{
+        margin-right: 48px !important;
+    }
+    .cart .card{
+        max-width:300px !important;
+    }
+    .circle .imgg{
+        width: 90%;
+        margin-right: 14px !important;
+    }
+    .nnn{
+        min-width: 186px !important;
+        max-width: 320px !important;
+        height: 530px !important
+    }
+    .fl{
+        margin-right: 13px;
+    }
+    .sl{
+        margin-right: 2px;
+        padding: 6px 25p
+    }
+    .imgg1{
+        width: 94%;
+    }
+    .img-offer {
+        max-width: 325px;
+        margin-bottom: 57px;
+    }
+    .www {
+        margin-bottom: -43px;
+    }
+    .Iiadd {
+        padding: 10px 65px;
+    }
+    textarea {
+        width: 295px;
+    }
+    .offer {
+        margin-right: 31px;
+    }
+    .navbar .submit {
+        margin-top: -5px;
+        margin-right: -28px;
+    }
+    .navbar .form-control {
+        width: 18%;
+        margin-top: -4px;
+    }
+    .nav-img {
+        margin-right: -380px;
+    }
+
+    
+}
