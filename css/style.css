@@ -54,6 +54,7 @@ body{
 }
 .nav-user{
     font-size: 22px;
+    cursor: pointer
     
 }
 button{
@@ -72,7 +73,7 @@ button:focus {
     background: white;
     cursor: pointer;
     margin-right: -43px;
-    margin-top: -26px;
+    margin-top: -37px;
     color: #ec4f6a;
 }
 .form-control{
@@ -149,9 +150,7 @@ ul {
     margin-top: 24px;
     margin-right: 390px;
 }
-.stars{
-    color:black
-}
+
 .tray,
 .piggy{
     max-width:37px
